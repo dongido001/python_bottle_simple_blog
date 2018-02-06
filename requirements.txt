@@ -1,0 +1,4 @@
+bottle==0.12.13
+pymongo==3.1.1
+beaker==1.9.0
+argon2_cffi==18.1.0

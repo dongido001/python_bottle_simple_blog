@@ -1,0 +1,4 @@
+*.pyc
+/env
+/session
+.vscode
